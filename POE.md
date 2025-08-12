@@ -131,4 +131,4 @@ Crea una aplicación (puede ser en **JavaScript** con HTML y css opcional) que:
 
 ```
 
-![calculadora](image-1.png)
+![calculadora](img/image-1.png)
